@@ -1,0 +1,11 @@
+svg.octicon.octicon-mark-github {
+    margin-right: 14px;
+  }
+a#navbarDropdown {
+  margin-left: 625px;
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+    margin-left: 479px;
+    margin-top: 11px;
+}
